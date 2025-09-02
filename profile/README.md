@@ -43,7 +43,7 @@ Don’t worry about polish — this org is about **messing around and seeing wha
 
 ## 🤙 Join Us  
 Follow along here or on [Fyrspot's X](https://x.com/fyrspot) or [Eze's X](https://x.com/ezeoleaf) for updates, weird demos, and occasional key dumps.
-Or just reach out 📧 **fyrspot@protonmail.com**
-If you like hacky experiments in crypto, distributed systems, or privacy — you’ll feel at home.  
 
----
+Or just reach out 📧 **fyrspot@protonmail.com**
+
+If you like hacky experiments in crypto, distributed systems, or privacy — you’ll feel at home.  
