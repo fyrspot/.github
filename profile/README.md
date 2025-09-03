@@ -20,6 +20,11 @@ This isn’t polished. It’s an experiment, a playground, and maybe a tool.
 
 ---
 
+## 📱 Do you want to test it?
+Here is the latest built [APK](https://expo.dev/artifacts/eas/i6fRuLUSP2TWM3FF4gcFvm.apk) for android
+
+---
+
 ## 👾 Contribution Vibes  
 This is a **hackerspace in code form**. PRs, weird ideas, experiments, forks — all welcome.
 - Found a bug? Open an issue.
